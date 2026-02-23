@@ -1,0 +1,10 @@
+# Tesla / credentials — NEVER commit these
+*.pem
+*.env
+*secret*
+*token*
+*credentials*
+*.key
+config.js
+config.py
+.env*
